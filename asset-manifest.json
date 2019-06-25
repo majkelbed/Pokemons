@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Pokemons/static/js/main.2d9ef6d5.chunk.js",
+    "main.js.map": "/Pokemons/static/js/main.2d9ef6d5.chunk.js.map",
+    "runtime~main.js": "/Pokemons/static/js/runtime~main.34439cff.js",
+    "runtime~main.js.map": "/Pokemons/static/js/runtime~main.34439cff.js.map",
+    "static/js/2.ad3871d1.chunk.js": "/Pokemons/static/js/2.ad3871d1.chunk.js",
+    "static/js/2.ad3871d1.chunk.js.map": "/Pokemons/static/js/2.ad3871d1.chunk.js.map",
+    "index.html": "/Pokemons/index.html",
+    "precache-manifest.ddd7fe6d243dd31b43dffcf1d28cb72f.js": "/Pokemons/precache-manifest.ddd7fe6d243dd31b43dffcf1d28cb72f.js",
+    "service-worker.js": "/Pokemons/service-worker.js"
+  }
+}
